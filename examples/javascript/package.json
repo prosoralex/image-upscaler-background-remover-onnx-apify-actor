@@ -1,0 +1,8 @@
+{
+  "name": "image-upscaler-background-remover-onnx-example",
+  "private": true,
+  "type": "module",
+  "description": "Client example for the Image Upscaler API & Background Remover (Batch 2x/4x) Apify Actor",
+  "scripts": { "start": "node example.mjs" },
+  "dependencies": { "apify-client": "^2.9.0" }
+}
